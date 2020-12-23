@@ -23,10 +23,10 @@ private:
 
     //QPushButton* restart;
 
-    static const int B_WIDTH = 600;
-    static const int B_HEIGHT = 600;
+    static const int B_WIDTH = 300;
+    static const int B_HEIGHT = 300;
     static const int ALL_DOTS = 900;
-    static const int DOT_SIZE = 20;
+    static const int DOT_SIZE = 10;
     static const int RAND_POS = 29;
     static const int DELAY = 140;
 
